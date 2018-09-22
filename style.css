@@ -1,4 +1,10 @@
 body{
   background: url('school.jpg');
   background-size: cover; 
+  front-family: Arial;
+}
+ul{
+  margin:0px;
+    padding:0px;
+  list-style: none;
 }
