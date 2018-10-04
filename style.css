@@ -85,4 +85,8 @@ ul li {
 		font
 	}
 	
+	*{
+		margin: 0;
+		height: 100%;
+	}
 	
