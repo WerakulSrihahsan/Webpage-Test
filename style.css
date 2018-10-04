@@ -89,4 +89,13 @@ ul li {
 		margin: 0;
 		height: 100%;
 	}
+	body{
+		width: 100%;
+	}
+	.img-container{
+			background-image: url(Pigeon_Point_beach.jpg);
+			height:70%
+			background-position: center;
+		
+	}
 	
