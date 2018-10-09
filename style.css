@@ -1,5 +1,5 @@
 body{
-  background-color: Coral;
+
   background-size: cover; 
   front-family: Arial;
   color: white;
@@ -97,6 +97,7 @@ ul li {
 			height:70%
 			background-position: center;
 			background-repeat: no-reapeat;
-		
-	}
+			back-ground-size: cover;
+			position:relative;
+}
 	
