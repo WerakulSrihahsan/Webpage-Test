@@ -33,7 +33,19 @@ ul li {
 	ul li:hover ul li{
 		display:block;
 	}
-	
+	p{
+		color: black;
+	}
+	p1{
+	float: left;
+	front-family :Arial;
+	background-color: white;
+	opacity:.6;
+	text-decoration: none;
+		color:black;
+		display: block;
+	}
+	/*
 	slider {
 		display: block;
 		width: 100%
