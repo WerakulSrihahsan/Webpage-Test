@@ -1,5 +1,5 @@
 body{
-
+background-color: Coral;
   background-size: cover; 
   front-family: Arial;
   color: white;
@@ -84,20 +84,3 @@ ul li {
 	slide p{
 		font
 	}
-	
-	*{
-		margin: 0;
-		height: 100%;
-	}
-	body{
-		width: 100%;
-	}
-	.img-container{
-			background-image: url(Pigeon_Point_beach.jpg);
-			height:70%
-			background-position: center;
-			background-repeat: no-reapeat;
-			back-ground-size: cover;
-			position:relative;
-}
-	
