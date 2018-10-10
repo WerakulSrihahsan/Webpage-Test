@@ -1,5 +1,5 @@
 body{
-background-color: Coral;
+background-color: #ADD8E6;
   background-size: cover; 
   front-family: Arial;
   color: white;
@@ -39,11 +39,8 @@ ul li {
 	p1{
 	float: left;
 	front-family :Arial;
-	background-color: white;
-	opacity:.6;
 	text-decoration: none;
-		color:black;
-		display: block;
+	color:gray;
 	}
 	/*
 	slider {
