@@ -1,7 +1,7 @@
 body{
 background-color: #ADD8E6;
   background-size: cover; 
-  front-family: Arial;
+  font-family: Arial;
   color: white;
 }
 ul{
@@ -41,6 +41,14 @@ ul li {
 	font-family :Bookman;
 	text-decoration: none;
 	color:gray;
+	}
+	p2{
+		color:white;
+		display:block;
+		text-decoration:none;
+		background-color:black;
+			opacity: .8;
+			width: 90px;
 	}
 	/*
 	slider {
